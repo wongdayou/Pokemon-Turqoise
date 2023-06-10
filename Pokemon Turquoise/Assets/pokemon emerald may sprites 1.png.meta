@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 8fca9739b46c2fd4fbb5d44a814ca672
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71889e10b4d454691439b46aa0d422
+      internalID: 1031689392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79c9b364f868ab49b8acd2acf08fbc7
+      internalID: 486021579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 418
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c75a7aa331c674d9d273c3f88cd060
+      internalID: -1437919487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f43c0b73e1390459388c6eee2918b1
+      internalID: 1495060287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d92928d47f39b4caf93f5f93cbd95f
+      internalID: -1875905591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d023552564ec99d498f84f80a5adc885
+      internalID: -1642347272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8aa3a14446dcc45b01d64ac2db227c
+      internalID: 1208391585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 392
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bf592306f5d940a887d95b32c700e
+      internalID: 1293396993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 392
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7801f1706a25348986c6b4b0e24d66
+      internalID: -426187339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 391
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ab3dfc9c5f9342891acd891851bd3
+      internalID: -1610945892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1413e261b41c5648847832e874753c5
+      internalID: -1241346939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 391
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b1c766e3a08604da78bf5e512c6dd8
+      internalID: 1610211227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 366
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b12ddbcf80fb94281f6d61a001c658
+      internalID: -501965386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 366
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d891606eafbf3894a9c6ee422f94baea
+      internalID: 1847628859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 366
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb1d86bf1efaa4aae6f4e5acf9538f
+      internalID: 544389589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 365
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4f4dc790c96864eaddef3263229653
+      internalID: -2016530079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 365
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4067e21bfe1f69429f6ccc69496ad85
+      internalID: -740767157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 364
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891372c4391f7843b5dd6d18cf567de
+      internalID: 1366236948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4785438615e7c524b95d8da9681c8560
+      internalID: -310735708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de148ff1fc9d0f74880a270cc90260be
+      internalID: 1848832722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62cff30f1e8b5649978f603f50adcd7
+      internalID: 1006035278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc7401fef25554da3f21cc18648463
+      internalID: 1091378148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27cf835f8e2b94ca9df4cff5dd4b2f
+      internalID: -1072439272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 341
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f86b0b8c1669b41936e0000ca63dfc
+      internalID: 1997478294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 305
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e395cf23229d2e545b62bae5508d4e59
+      internalID: 485962760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 305
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329432a594ab134da991c86d06e6e67
+      internalID: -2119265722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 305
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3b6e81211c5a4e8913ce738ad795c
+      internalID: -842745666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 304
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef4379abf81f640a12b86100a56299
+      internalID: -56374948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 303
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85715638f5c76e549bccc5c382ea59b2
+      internalID: -407294478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 260
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120fdce0604efb46aea90743a964417
+      internalID: 856239646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 260
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe363a82407612c489a7a65a90ec2a9c
+      internalID: 1392487822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 260
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bbaa44bcd12c48b4dd8ad4a81fb4c
+      internalID: -1628160833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 258
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d8ace354206b41ab8b8ebf0adc578
+      internalID: -2102828950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 263
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ccf781fb5c1941a92e495d54372ca
+      internalID: -28927856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70afadcfd5dc1d74d86506a77009fc78
+      internalID: -1506776608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 237
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff3a4f47ab5694c87f438738f7eedb
+      internalID: -1276731026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 234
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9190fbd70bc8724f96e27f1734f5f8a
+      internalID: -1240615161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06b7fbe94c2f14d84a0269fd07a355
+      internalID: 1993976393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 204
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf2fbf53c7182469fc9212ccdec5ae
+      internalID: 1120176523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adde6317e6c6545b53fa7f50f6cd1e
+      internalID: -1714180675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026627a63c6ff264b8bf265913dcaee0
+      internalID: -1216336211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 206
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c3ce4e6567aa45bd9ddcca5b51586
+      internalID: 2071098535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 199
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0fa9727b304a14988b40d623e9de74
+      internalID: 293035955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 181
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa2185058d75944891888ae46756a11
+      internalID: 959855421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 161
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9a0001dcbb4df43aed158f18257113
+      internalID: -1416146588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 161
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa24943f79dfd748bcc5124214cf65d
+      internalID: -1458770490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee78a064815029c47a54b5afac5041cd
+      internalID: -545793897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f8a9c4dbb32f458f1ea8ae6bc374d
+      internalID: 998057819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d01105bfd4c45438352e521ebc9c58
+      internalID: 1746363527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f44cceeb19020e468d7e475c466e300
+      internalID: 1888269700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 136
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1524b33304fd4c9f37dfbdf589544
+      internalID: 2118310160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40023503e36d9584ebec2bf998d7cc3c
+      internalID: -1817450619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f48c6adce21e4dbc7007d278148e1
+      internalID: -1118572534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb86cb7ea35b34e8102a48a46000a7
+      internalID: 1453791609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20878079e1af11a479ae34c6e6719989
+      internalID: -804333911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f57c9d47040d14683950636427c95f
+      internalID: 644826519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e41cab0e6943419a9d61a846134e2
+      internalID: -112276950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49dcd7cb8f32384a85baed7138d0198
+      internalID: 2028736134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 110
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95064e17741d9448e44f7ef01e33db
+      internalID: -557170633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_59
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 83
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f537cfd02a7082468bcd8495fdd2967
+      internalID: 781038773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 83
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2800f6cd3ef7fe46853c1bf7fc47992
+      internalID: -595351541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92602b0fe00153c408f1aac036967698
+      internalID: 1510424240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 83
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f957e6b071dd28546b8b2872149e5d17
+      internalID: -726321061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d8cf4c5fea4742b0ca79f46963d51
+      internalID: -2004002828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f89640a1dbc614296c3d63fe57b950
+      internalID: -1941680021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d1b3c0b150524e8d3d0b348449cc1
+      internalID: -524602809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 58
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ee048e59b8a54293694b793e0918f
+      internalID: -1097800019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_67
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 58
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92d522d295eaa459e4ddb3c9a959d2
+      internalID: -2044195937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980ac11e698a734db8a33d69bd55410
+      internalID: -754788546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 59
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8dd11eee68cdd48a7e11c54797f334
+      internalID: 1998240116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e6356300b7ba94a8cc1bbc2d284b38
+      internalID: 2106056836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 30
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5368ea979c9d0d4a8e0e2f0d622bd4f
+      internalID: -390616798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d54831dd56a24494fa890eb30d8a7
+      internalID: 201506901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 6
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89460f763516944887ee0e93367dc83
+      internalID: -1142272362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773a8c3804b1164f86ef13ac517eddd
+      internalID: -40333830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_75
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148c8cac66785343870a137ddbbe2e2
+      internalID: 232520045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon emerald may sprites 1_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 6
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8141320fbb7746a7991c885c98a01
+      internalID: 1345727144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pokemon emerald may sprites 1_27: -56374948
+      pokemon emerald may sprites 1_42: 293035955
+      pokemon emerald may sprites 1_5: -1642347272
+      pokemon emerald may sprites 1_63: -2004002828
+      pokemon emerald may sprites 1_51: -1817450619
+      pokemon emerald may sprites 1_2: -1437919487
+      pokemon emerald may sprites 1_38: 1120176523
+      pokemon emerald may sprites 1_76: 1345727144
+      pokemon emerald may sprites 1_75: 232520045
+      pokemon emerald may sprites 1_58: -557170633
+      pokemon emerald may sprites 1_11: 1610211227
+      pokemon emerald may sprites 1_1: 486021579
+      pokemon emerald may sprites 1_9: -1610945892
+      pokemon emerald may sprites 1_0: 1031689392
+      pokemon emerald may sprites 1_34: -1506776608
+      pokemon emerald may sprites 1_46: -545793897
+      pokemon emerald may sprites 1_4: -1875905591
+      pokemon emerald may sprites 1_43: 959855421
+      pokemon emerald may sprites 1_66: -1097800019
+      pokemon emerald may sprites 1_14: 544389589
+      pokemon emerald may sprites 1_37: 1993976393
+      pokemon emerald may sprites 1_39: -1714180675
+      pokemon emerald may sprites 1_53: 1453791609
+      pokemon emerald may sprites 1_13: 1847628859
+      pokemon emerald may sprites 1_19: 1848832722
+      pokemon emerald may sprites 1_10: -1241346939
+      pokemon emerald may sprites 1_32: -2102828950
+      pokemon emerald may sprites 1_59: 781038773
+      pokemon emerald may sprites 1_16: -740767157
+      pokemon emerald may sprites 1_50: 2118310160
+      pokemon emerald may sprites 1_65: -524602809
+      pokemon emerald may sprites 1_54: -804333911
+      pokemon emerald may sprites 1_22: -1072439272
+      pokemon emerald may sprites 1_67: -2044195937
+      pokemon emerald may sprites 1_47: 998057819
+      pokemon emerald may sprites 1_48: 1746363527
+      pokemon emerald may sprites 1_17: 1366236948
+      pokemon emerald may sprites 1_73: -1142272362
+      pokemon emerald may sprites 1_24: 485962760
+      pokemon emerald may sprites 1_68: -754788546
+      pokemon emerald may sprites 1_26: -842745666
+      pokemon emerald may sprites 1_28: -407294478
+      pokemon emerald may sprites 1_30: 1392487822
+      pokemon emerald may sprites 1_8: -426187339
+      pokemon emerald may sprites 1_7: 1293396993
+      pokemon emerald may sprites 1_74: -40333830
+      pokemon emerald may sprites 1_25: -2119265722
+      pokemon emerald may sprites 1_56: -112276950
+      pokemon emerald may sprites 1_35: -1276731026
+      pokemon emerald may sprites 1_64: -1941680021
+      pokemon emerald may sprites 1_71: -390616798
+      pokemon emerald may sprites 1_6: 1208391585
+      pokemon emerald may sprites 1_33: -28927856
+      pokemon emerald may sprites 1_69: 1998240116
+      pokemon emerald may sprites 1_72: 201506901
+      pokemon emerald may sprites 1_15: -2016530079
+      pokemon emerald may sprites 1_12: -501965386
+      pokemon emerald may sprites 1_40: -1216336211
+      pokemon emerald may sprites 1_44: -1416146588
+      pokemon emerald may sprites 1_61: 1510424240
+      pokemon emerald may sprites 1_70: 2106056836
+      pokemon emerald may sprites 1_18: -310735708
+      pokemon emerald may sprites 1_36: -1240615161
+      pokemon emerald may sprites 1_49: 1888269700
+      pokemon emerald may sprites 1_3: 1495060287
+      pokemon emerald may sprites 1_57: 2028736134
+      pokemon emerald may sprites 1_20: 1006035278
+      pokemon emerald may sprites 1_23: 1997478294
+      pokemon emerald may sprites 1_29: 856239646
+      pokemon emerald may sprites 1_55: 644826519
+      pokemon emerald may sprites 1_45: -1458770490
+      pokemon emerald may sprites 1_52: -1118572534
+      pokemon emerald may sprites 1_41: 2071098535
+      pokemon emerald may sprites 1_60: -595351541
+      pokemon emerald may sprites 1_31: -1628160833
+      pokemon emerald may sprites 1_62: -726321061
+      pokemon emerald may sprites 1_21: 1091378148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

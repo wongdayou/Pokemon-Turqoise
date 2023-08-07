@@ -40,7 +40,10 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("moveX", input.x);
                 animator.SetFloat("moveY", input.y);
 
-                StartCoroutine(Move(targetPos));
+                if (IsWalkable(targetPos)){
+                    StartCoroutine(Move(targetPos));
+                }
+                
             }
 
         }
@@ -66,6 +69,15 @@ public class PlayerMovement : MonoBehaviour
         }
         transform.position = targetPos;
         isMoving = false;
+
+        CheckForEncounters();
+    }
+
+    private bool IsWalkable(Vector3 targetPos){
+        if (Physics2D.OverlapCircle(targetPos, 0.1f, obstacles) != null){
+            return false;
+        }
+        return true;
     }
 
 

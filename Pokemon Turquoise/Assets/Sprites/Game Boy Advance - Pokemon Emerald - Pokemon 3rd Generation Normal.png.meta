@@ -1,0 +1,6194 @@
+fileFormatVersion: 2
+guid: 6c406330af75ff1479e329c082758391
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1848
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552aecfea381434eb249625ca90e664
+      internalID: 205086321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1848
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944f450f137df245938789906598b0a
+      internalID: -165025804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1844
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616544b7797a914983effdec2393404
+      internalID: -1786562768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1847
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854eb7bfa43a49449454a2e44e728da
+      internalID: -1705835099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1840
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438dc37713083945a534a4d047a9001
+      internalID: -1293468123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1840
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e96b3f2ea0d44d81d89d7db01c5b6
+      internalID: 783904023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1848
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a7c62ee0f8684093568705e38b1f8
+      internalID: -1872728287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1848
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845342f95c3e9ea4ea3faad038bad1ac
+      internalID: -654695816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1841
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a1f5554439bd49a99834ef020b965
+      internalID: -540269988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1845
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116aac5b0fe6f64ea37a96a2769feb9
+      internalID: -1954685432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1771
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02cd705ed7fcc342b1968322e34151a
+      internalID: 2115921962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1771
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2faa363953e9043ab0e4fe87acabd4
+      internalID: 1113773087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1783
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd486ff2629f15a4ead3e163b36de390
+      internalID: 516839586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1784
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aadf62f20bb5774ca4c4a6702ee9355
+      internalID: 302119183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1777
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13f8270f707d94db9a43fae488a9d1
+      internalID: 1720525594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1777
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4a943091d78c4baf343c3d201c515
+      internalID: 278316909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1771
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd98e79863edc44c94de1f9fdff14aa
+      internalID: 1605113940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1771
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112676264fa55547ab7d98f7ab1634f
+      internalID: 1832408184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1783
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609ab38279aef24ea3b014573114651
+      internalID: -891578276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1784
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61233973a77dec14283399b1cfc5d096
+      internalID: 2098651490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1706
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ad3abba172294a8cb0e48fb44c1f8
+      internalID: -526599734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1706
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de833dc9834e146ae996b7a88b42b3
+      internalID: -143825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1717
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca2cd4fc8602e4e80a083371199347
+      internalID: 2050658290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1717
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74884e335721e2240b7cf0ad07128a40
+      internalID: 101228190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1705
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6cc7208699c04d928b0a8b4ba0821
+      internalID: 991076868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1705
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aaf9a1cecb74c43b743297883b6035
+      internalID: -144795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1716
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd55ecd4da012143be3528dd0e6519b
+      internalID: -658842635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1716
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03c750780884442ae46fd22d39e9ef
+      internalID: 336584129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_28
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1719
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790be66b1f4688242afe8b726ad26ee1
+      internalID: -993487274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1719
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3dcd086cb66b488b982c346803f74
+      internalID: 1747791489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1642
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580efaafe4558dc4f998ad38800fcd02
+      internalID: -293119964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1642
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2788ef98c3559374ea1109d94ce131ca
+      internalID: 1334825812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1649
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc9ae778b76a84d941053b029f7c46
+      internalID: 1761974136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1649
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078b4004fb2ccd4bb5010ebe20e4886
+      internalID: 948192667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1648
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7120eba326608429b916d01ca17544
+      internalID: 1858228168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1651
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a9bb221b725a439f33920044fb1f5
+      internalID: 2107467275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1647
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ef0fdab21a9e46b03d443af42530f
+      internalID: 1594751430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1649
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12d967e4d8ca84aad32b24d108b44a
+      internalID: 308433550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_38
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1642
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6447f279b2694e80a0b211242178b
+      internalID: 1625876251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1642
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd9c01335a8894da0d6e7fff54a186
+      internalID: 1329293250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1564
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb8962d13f4584f8d83a05129fb745
+      internalID: -496478017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1564
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525031554d4faf647b1b264466d13cba
+      internalID: 2123358504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1580
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769ede9f11c24842ad1adc72b0391db
+      internalID: -130386648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1580
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fc0e9ad7802c47a317235a14e7767
+      internalID: -1247016355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1572
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8616951e7b072e4eac79275abd6969d
+      internalID: -672342671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1572
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a852d66eb5d44dbf9b556dccd0e04
+      internalID: -124556950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1566
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d5051572645447935e844ab8b0ad1
+      internalID: 2116476300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1566
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61265db1214d504989f5fe9634c936a
+      internalID: -1241625402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_48
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1580
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd39f8ef09ec5541a567d286055dc60
+      internalID: -1265812596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1580
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248e2d2ad1c936498393681bf29e214
+      internalID: -294787741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1501
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99efdfd2ffe4e3c45843b7dacc51b617
+      internalID: -1920934457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1501
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c89ec1b1d193d419f17f9808a2357b
+      internalID: 1109354888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1519
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef38dc710323f2c4bab5ecf0f7d0489f
+      internalID: -1428859378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1522
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfd12ad9803cd4093944be28e7d066
+      internalID: -260693746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1499
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca242e48e916848ab93b250d4828aa
+      internalID: -785806767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1503
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa0f1146046304e9180ab6d05f70ba
+      internalID: 772491610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1510
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ba085e61eaf642b22befd17753247
+      internalID: -613001258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_57
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1510
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51148c6a73aa6854790b4e31aad2fcfd
+      internalID: 458363791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_58
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1501
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a2043fda49f734dae10e11b51c81e9
+      internalID: 1003869779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1501
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c890dac336249347b43acb60147345b
+      internalID: 548673545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1427
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4ea78cc458fc44a0f4f3efedacbe1
+      internalID: 1033189737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1427
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bc3390dda6c94798d4f6a2a5ba0fd
+      internalID: -1362228945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1441
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177e16470cb66b4186642e45481e1ee
+      internalID: 1823318183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1441
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c699fab0af49b4580503fc24244acc
+      internalID: 1357716439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1427
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee6481d9c79f2409e91def3bfe0bca
+      internalID: -183796163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1431
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091dab4b0195d743aac5a5d51c2bb53
+      internalID: 1330435866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1442
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ee1d3891711b49b9e5890b01276cd
+      internalID: 610570667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1442
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6271f999e47c44e879b2c6300ef851
+      internalID: -1814514591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_68
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1430
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e60ad4a61ba444a997755f427dba55
+      internalID: 1888045275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_69
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1430
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de810ccea559324580790d41c4b1333
+      internalID: 128638465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1375
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45b7584105ec24ba8e1d07a2e0f946
+      internalID: -2011272006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1375
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd60e18d54e09468de351a3abc6f4c
+      internalID: 705240385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1357
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513796e914fc6d4a97e72be2de2a4f3
+      internalID: 261863957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1358
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b57859aaae1d8458afe9a8dca50f5f
+      internalID: -612050116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_74
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1365
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7ba4b3484aa340a342092a2784273
+      internalID: -1357545428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1365
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e3670ea38928479d3ce87410aba44
+      internalID: 283288451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_76
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1375
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d84f851911d2429e86cfe65b1eebe
+      internalID: -1371196891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_77
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1375
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70468ced34b3cf34daab18a04ab74c34
+      internalID: 1832772917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_78
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1367
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438997a7714a05f46ae0ffef9ed7226f
+      internalID: -1988664556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_79
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1367
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773a6a4dcdf4904194ec4303993ca5f
+      internalID: -1088635626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1298
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616f719383303d449f4274d73fc5137
+      internalID: -1903620206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_81
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1334
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492cebd4010ae104aab4ad28d535c53c
+      internalID: -937390837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1304
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea5befb70726f042a16b70570bbbf44
+      internalID: 1034161627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_83
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1330
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f5b86f0fd5374382531ec7f2d762f
+      internalID: -1594469541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1302
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492e58b7f060834b99fde31e0edc1c5
+      internalID: 381597100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1302
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d120c697f876c646be78bf0cc36eed5
+      internalID: 1535916559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1291
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03a4139a0f64242af67ccadeef64b4
+      internalID: 923799142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1294
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e5d262cdff944488ee848079dd3f22
+      internalID: 13547691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_88
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1289
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21c25091dee364e94ab173965fd2f5
+      internalID: -593079910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1289
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced0e184021bf24ca32b6f2cfa106ae
+      internalID: -419464991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_90
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1300
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2048401ee9a74dbeef73e68dc075b
+      internalID: 1240883484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_91
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1300
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3bf852cfb20bb41b2791a6671bd1d4
+      internalID: -1808597878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1220
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ee024694d31c429b56def67d418a3
+      internalID: -450823080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_93
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1222
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1105db1ab35b44c9a302cc5e75ddcd
+      internalID: -706306460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1234
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5743042457fb4db4d75807c138c4d
+      internalID: -645260320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1234
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e5c18f83a6ec42aca6d2f4e929528
+      internalID: 178774757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_96
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1231
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c96a30658128e428201878ab13fbcf
+      internalID: -1806541765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_97
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1230
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97b611a8d75ef4791f5ba6baa7bed2
+      internalID: 2134131090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_98
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1230
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5451a9a9b68eeb843bd515438d3e41a1
+      internalID: -1005857083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1230
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a2a4fa2cc15f4aa6b11731ef1b54a
+      internalID: -1428983978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_100
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1227
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa8e69fa5724b4ba67a6628d445aff
+      internalID: -1709189785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_101
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1227
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97de8c1828f81847b88fe2d570048d0
+      internalID: -1859746339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1159
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e48a169c943c439d4b5eb85b63290
+      internalID: -990360969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_103
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1159
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdab821e9893049a3dca0c05588e3f
+      internalID: 1544464230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1158
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b16d6ea9e960743bca480f2ada4554
+      internalID: -672617661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1158
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765604bd48ab3e944b3b199f25704d71
+      internalID: -2036126327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1170
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610bf213a007964d85eff2513eebcd4
+      internalID: 1287405529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_107
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1173
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed302b2401496b40bde65cca823411e
+      internalID: -1057777186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_108
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1163
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d906a7ec1beb341a4dea5a7544df21
+      internalID: -1216503264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1163
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411539cb53641c24a87f4f2a7ea9f7d0
+      internalID: 2058330220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_110
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1150
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd107196769d04182bf31f401820d7
+      internalID: -1224199861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_111
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1150
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26198942c1f876e4e9cfae502d527f78
+      internalID: 1133951138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_112
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1093
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16fbf3874508e439111a7a4c954fe6
+      internalID: -1902932954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1093
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404437e22dfc8c34bad5ec0be3403457
+      internalID: 118008831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_114
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1082
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86eb1963f86d134e9601aed141a6e9f
+      internalID: 291125981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_115
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1082
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e4f57cf6f49f42aa4360d3821d866
+      internalID: -1703222867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1099
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f957387e13a84e43b1b4b08d84edb3b
+      internalID: -795150458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_117
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1099
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e020dc4e27929d46b4a76799e5520f3
+      internalID: -1589896285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1085
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8b1ed29ab44746bc1f266b1a07d50
+      internalID: 1526750402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_119
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1085
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05b4e83c6e5cf49aa5988f8a6e0872
+      internalID: -1593195940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_120
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1095
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f28170c9017449b6b63764906aa3b
+      internalID: 276550957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_121
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1091
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85af4d57bce4aab478f9e71d52a6127e
+      internalID: -1517343499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_122
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1024
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b639ffe87b5c48a61178c419a5726
+      internalID: -936598579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_123
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1024
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872e9f0870abba4e97efb9e816ceea8
+      internalID: 2124367268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_124
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1020
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afddaffab38bc4bb1c3750a497fd57
+      internalID: 1674272904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_125
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1020
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204cf3b772900914199e412c53fecd83
+      internalID: 1284553309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_126
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1020
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d96ed13277794ab1aa4a0665d24d9
+      internalID: -667597423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_127
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1020
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b3cd89d8d5b244b7a8d1abfeab5e3
+      internalID: -1294229687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_128
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1020
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac8d2d5c4c8c14b90318c8711280ee
+      internalID: 1032847994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_129
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1020
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342950f9d2c7b4f4b9391fc77d152392
+      internalID: 1860041810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_130
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1030
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ac380a8fa27e469b7d70742307d1d
+      internalID: 1019397786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_131
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1030
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858dacdecaf7af042b8a4429d9d60d72
+      internalID: 704725091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 951
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7652187254d564a8e9eab4ea3024e6
+      internalID: -370855842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_133
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ac81f44afc484fba07120e9cdfc55
+      internalID: -399023989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_134
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 949
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe037a79a6e194baaab56c34fe4c13
+      internalID: -928306071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 947
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0d82294345124693548bf61372bf3
+      internalID: -881246368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 946
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4bece624ad02448bfd78978bfa526
+      internalID: 1285305707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_137
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 947
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bdb94f8a337344eb257b13c6bf2015
+      internalID: 405353704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 958
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42984c1a1cfd786428353b3e9f3504b8
+      internalID: -1102732658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_139
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 958
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab5623d5acd2345b67b98e2bc59c5a
+      internalID: -483822851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_140
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 953
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256eca9633d92f4fa5de71195203ac8
+      internalID: 1103653284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 953
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf7910e76349b42a9da315a49aff54
+      internalID: -1762896288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 889
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60669284db262d4abbf0039c43ad637
+      internalID: 2082689259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 889
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921cea5745ee98544a930ee824242ac6
+      internalID: -1002727657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_144
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 883
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b276707bf804419e291ffba7dbf76
+      internalID: -943282514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_145
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 885
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be37daeb06ad0034da1627cf3da5ff4a
+      internalID: 1582944453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_146
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 876
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7656d37fa70d54fa368200bae1145d
+      internalID: -1759035060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 876
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3df4ea43172a24eb720d13d5136bb3
+      internalID: -1507829428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_148
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 883
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a2f266a1bc13428cbc284293a49fb
+      internalID: -1024513063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_149
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 891
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504a7f765dad7d4ebe48609aa1375e9
+      internalID: 1659040723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_150
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 879
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb1449130f39842832b10b96bb2f9d
+      internalID: -1641550630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_151
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 879
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1044ebf295f54b80bf2ddb3102189
+      internalID: -1393629077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_152
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 821
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4cba529bcf1764686334afc8c1e7fe
+      internalID: 1775374939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_153
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 821
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbc48cb11f9614ab5a48f51b53749d
+      internalID: 245664178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_154
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 817
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c9019b8c7f3e48b4ee919d6c89dd3
+      internalID: 1589543033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_155
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 817
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61984e1119a5b284da1437fa2eddec26
+      internalID: 1207883892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_156
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 806
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abaf8e1a5eef4d4c9fab2de1a007e40
+      internalID: 1773249674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_157
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 805
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3563c0fde9994486be18b881121e6
+      internalID: 673474184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 821
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244ce1ccf41a2f47b0f6760f9a07f1a
+      internalID: -1588022173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_159
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 823
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1a1bb5166d8041b5c3f9a8a2a010f
+      internalID: 1792610379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_160
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 805
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80dfb780c4bfb47810b5d6f01dbec9
+      internalID: 296375289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_161
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 805
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9336e9b31c2cca4fb7477089996c696
+      internalID: -1875259872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 753
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33dfa4379f32cf4e9c35aab5069619a
+      internalID: 928310344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_163
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 756
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c8313e05192045a4283aa4e13a3a8
+      internalID: 1413934815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_164
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 738
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac51b648463be340be9564c985d59af
+      internalID: -136288861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_165
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 741
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283fc3adc389c444883db218c10db0a
+      internalID: -430318417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_166
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 741
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01d7b48b355f24487d1de1c3e82936
+      internalID: 304614301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 741
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13fc51ce0eabfc46a18b6ef783a81d9
+      internalID: -121769772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_168
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 744
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9fc542884cf54ab36c98900cca9ec
+      internalID: -1969545266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_169
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 744
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75fdb760f73534c8e9837614c93fc7
+      internalID: -1996262469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_170
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 745
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960530261ebaa994894063852ee11a66
+      internalID: 2108531950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_171
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 745
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7c580aa0e29f4ba42278d08fce5b4
+      internalID: 1374382588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_172
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 668
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03dbd6740297be4d95d59eda3ddf6bd
+      internalID: -1621520396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 668
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece29fac647033468d628f72d3311fb
+      internalID: 1750061609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_174
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 678
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97f816c941a3b48b35842e9b8f401b
+      internalID: 410614252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_175
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 676
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155bf1a55ba8b0b4b8160c8904360f77
+      internalID: 1320075623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_176
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 676
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c887632f1bad4690c6c8e79ef11a0
+      internalID: 2141856737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_177
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 680
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10495364e03344fb3d9e8a7a808a7c
+      internalID: -1965388155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_178
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 679
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de7c7c39d4dc04fb982b4167931d2e
+      internalID: -2023266663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_179
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 679
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906c263f7c096c41bd201fa24147fc7
+      internalID: -1144600972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_180
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 668
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b67d4e1e65f54eb8213cca8322517
+      internalID: -1175439590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_181
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 668
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee98264dc9eeab4eb277732f23fbc0f
+      internalID: -1378022795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_182
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 614
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e168d51df9a847f468bfc84722ccb7d1
+      internalID: -328796475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 613
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d70eb1c0520d44ad24b3b27dd6a28
+      internalID: 503047078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_184
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 604
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991a9e88435a1b44853ef5066fb7a05
+      internalID: -1752736790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_185
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 604
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe645ab49ca91ff42be44d0b0b366d55
+      internalID: -973899488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_186
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 605
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66146688353af4790bc69c5abd0af5
+      internalID: -630126626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_187
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 605
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43dedb36052d04c9cde3bf79297a02
+      internalID: 851508483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_188
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 598
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900220d2a5aa9748a9f2b372032d22d
+      internalID: -1821394403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_189
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 598
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98979c565027e43bbecb0ec8672f2a
+      internalID: -1141658910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_190
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 606
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7ad99a4bc5884ea2a6b97e28a4908
+      internalID: -495966949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_191
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 604
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981dff7803d81247b8b048771c3cb73
+      internalID: 1529336986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_192
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 529
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec10b71f436d44585da533bda91fc8
+      internalID: 43393713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_193
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 529
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f03196d0ea250419a1ef7e93a3ea3d
+      internalID: -1740938351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_194
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 542
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9bfe1ee5627a4f92be4385683115d
+      internalID: -1956051975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 542
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b413b5615bbd4187a07e935be77eb
+      internalID: 542007646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_196
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 529
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f22b9042e342944974ec729266378c
+      internalID: -40032523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_197
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 529
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87175a2a994d4459674ecd6988a2d7
+      internalID: -1055859811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_198
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 546
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234d7703f7c28bf45adceb2ade3a2aef
+      internalID: -622222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_199
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 538
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2152f78576ffc47a9c16acbd428c9c
+      internalID: -981077917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_200
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 538
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbd3853e1cfa640a9d6922f6b304cd
+      internalID: 1818545755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_201
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 537
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f515b9ebdfa5976498117e3c7a9ddbe7
+      internalID: -420208396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_202
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 467
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07007636347369c48a35e649e18b7d7b
+      internalID: -297455123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 468
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37181341bdf85c4bb90e50133464b8b
+      internalID: -738735458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_204
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675749f2ec51d949b9216320777c4ab
+      internalID: 1730854993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_205
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 476
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdeaec4bc360044b01475997d2c512
+      internalID: -101270806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_206
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 472
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675908abfc0adbe47b1de5a04b87fb7a
+      internalID: 2113316214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_207
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 476
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620603425f6f7548946d569e773c388
+      internalID: -603663757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_208
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 470
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf4b32d44c13242bf9ee8f721ed753
+      internalID: 1854101365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_209
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 468
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e206ed17b4ef145a0d6e8862c2ff26
+      internalID: 1570554326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_210
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 465
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d78dffc9d98c946b6d0d297172db1f
+      internalID: -1608758052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_211
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 465
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b981b98153834741a6060b5e285befb
+      internalID: -275226247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_212
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a356d7171555d4c85267d712f50f1e
+      internalID: -1307587021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_213
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 392
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0621bedf6cbc4496008bf8d7dba5c
+      internalID: -878524671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_214
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 397
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddab74ee70c6c243a0d48e3845c81d3
+      internalID: -513266183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_215
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 414
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be513f44b22e184eb45719de6c7c383
+      internalID: -1744210647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_216
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c015a5cbbdc1469fb9398d23e24a6
+      internalID: -82289347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_217
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 391
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c103e6309eee4ab438d643d80146d
+      internalID: 22805240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_218
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 403
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10141a2890bb8214198a86c19e6df2c7
+      internalID: -1928225656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_219
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 407
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d163000e05c54c8dbb96e112974d8
+      internalID: 2070958961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_220
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 402
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd215072e87fc4fa83d7f7a62911a1
+      internalID: 281619629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_221
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 404
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2375c73baca8d1e4ba515d9f29ff4b10
+      internalID: 1639611389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_222
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 332
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc33308aab4f5f94a811db5d4cb3e382
+      internalID: 629020176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_223
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 334
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7139dc9ae7b9a45927efc4516f9ede
+      internalID: -115490680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_224
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 338
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6ccb0d32f04541a724b73c63f063b
+      internalID: -507215188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_225
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec06ceeeae2566469f198d4f2718a2a
+      internalID: -1706489167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_226
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 332
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9f80baec93874ca256160889fa083
+      internalID: -109960806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 332
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22e554800d6df49a888a416270b4e4
+      internalID: 1612968142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_228
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 323
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513900989a4bdda4383a277df5a67a42
+      internalID: -1672455872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_229
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 323
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0471c2832a7a4c4d95a954555082429
+      internalID: -845383037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_230
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 336
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2adb425f29e45458d5720504dd9219
+      internalID: 1317709584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_231
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 336
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e090b886876ea40a8d8c3e94bea972
+      internalID: 802129538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_232
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef32ce99b24a81944a635567aa71729c
+      internalID: -1173998141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_233
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e924e506a0c9a40825180ca20f85ac
+      internalID: 160335265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_234
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425da235ca07ce47a62ea3579066506
+      internalID: -699689253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_235
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 266
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79bea686f0668348b1635e3a4befcd6
+      internalID: 85275477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_236
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 264
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1f1f439ca8b148b10d7ec993fdf91
+      internalID: 497036597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_237
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 265
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94506c818f1184439a7a57498621b08
+      internalID: 1374564140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_238
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 277
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96780a035ec267d4e8838c74b4d3c5d9
+      internalID: -165420627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_239
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 277
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7ae62c823fd347a228d4fd4e0132f
+      internalID: 1087537225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_240
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 264
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cabd76410a028f409815ad8eb3077ef
+      internalID: 1329873545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_241
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 264
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328a2a6b22a62744bf31fcf53545e7a
+      internalID: -2025959255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_242
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1f4f4128a372489a0cb7893b18292
+      internalID: -1299431146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_243
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 193
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4010464ff02f343bce55182d4533a8
+      internalID: 1247639441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_244
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 188
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd230ca75736f3c47b4b4dddf581ea6a
+      internalID: -1064461862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_245
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 188
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571fbc625cd484b48af5db5d8d871f57
+      internalID: -313224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_246
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 199
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b0d93d3d350d147a534102dc8bd1f3
+      internalID: 1908668543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_247
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 196
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6eca2b3bd7f2642befaf0ef0e979d9
+      internalID: 865268457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_248
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 191
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c6f486ff00834dbaf9b15a84b5695
+      internalID: 572158160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_249
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 187
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0790156cca96d489cb04aca81f78f8
+      internalID: 1297030026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_250
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 190
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e126a52ffdf6b94a9f78fe77fe33eff
+      internalID: -1776098682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_251
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 195
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d7a787f4d43746a71134ad42841cf
+      internalID: -1803798140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_252
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 119
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ea69e6a242244498a2cd4120d2401
+      internalID: 1560771736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_253
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 122
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4899563c76fd4395be998ce28c1a0
+      internalID: -1340576836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_254
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 117
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bca74fd422ea14ba0c0ca6b9d63115
+      internalID: -1456457139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_255
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3e4e9f2e21de458565a9cbe13c4ea
+      internalID: 2108949731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_256
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 118
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc859f540a7d01f43b3524c3bde9389c
+      internalID: 975190293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_257
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 118
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655d13bef37c2e478b6be0632747c00
+      internalID: 1569252505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_258
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 116
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9bef42bcbb7746a448c1777c9b6f4
+      internalID: 1163088989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_259
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 115
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84add68a038f941894bd5e978ed485
+      internalID: -1780797315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_260
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 117
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec9b50b3664f841b3d2d527c939f5d
+      internalID: -2015995062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_261
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 117
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906e5252478fc747a09b5f1996b8962
+      internalID: -1530321055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_262
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194770b74b79d4544988e70175faf33f
+      internalID: 1771712154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_263
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0d7211bef5d44a84ade3712376087
+      internalID: 217946253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_264
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ad8806decdb34b8a7fa75abc3888c
+      internalID: -933693538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_265
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 47
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6b57b038edd746bc0441fd629f741
+      internalID: 391566565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_266
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 46
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede96b733fb2b144fb710245a05e70b2
+      internalID: 568196796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_267
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 46
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c291492fe49a84ea1334193bfb0fc9
+      internalID: -1154832351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_268
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9623a8872fd440aad757d212f7309
+      internalID: 1639304836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_269
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 61
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde2ee0b0c4d2ad4a8c329e7df2626a6
+      internalID: 1442220708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_270
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 47
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb432a69c8ef34a4c84a5d23a0b9209b
+      internalID: -152511175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_271
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 47
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f03a20f6cddf4495169075ef7e32d
+      internalID: -587926929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_272
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 33
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba40c76de895e4c9acffb9ba814848
+      internalID: 818098430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_273
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 5
+        width: 196
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee97dfbb3bd4c4da2e03cbb3b62fce
+      internalID: -1329244964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_274
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 10
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062255f06df25b64c99ee70b440b03b9
+      internalID: -322536962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_275
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 10
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5b2253fd688e4aa980746ab632f96
+      internalID: 569097245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_126: -667597423
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_256: 975190293
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_3: -1705835099
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_272: 818098430
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_234: -699689253
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_63: 1357716439
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_229: -845383037
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_177: -1965388155
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_186: -630126626
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_260: -2015995062
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_168: -1969545266
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_270: -152511175
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_255: 2108949731
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_148: -1024513063
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_118: 1526750402
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_48: -1265812596
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_16: 1605113940
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_22: 2050658290
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_61: -1362228945
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_97: 2134131090
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_197: -1055859811
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_78: -1988664556
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_262: 1771712154
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_154: 1589543033
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_176: 2141856737
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_56: -613001258
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_135: -881246368
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_137: 405353704
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_167: -121769772
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_194: -1956051975
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_19: 2098651490
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_43: -1247016355
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_98: -1005857083
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_81: -937390837
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_73: -612050116
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_159: 1792610379
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_163: 1413934815
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_175: 1320075623
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_192: 43393713
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_170: 2108531950
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_130: 1019397786
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_203: -738735458
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_248: 572158160
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_111: 1133951138
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_68: 1888045275
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_128: 1032847994
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_82: 1034161627
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_206: 2113316214
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_6: -1872728287
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_65: 1330435866
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_152: 1775374939
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_11: 1113773087
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_7: -654695816
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_107: -1057777186
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_54: -785806767
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_227: 1612968142
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_180: -1175439590
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_240: 1329873545
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_195: 542007646
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_266: 568196796
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_201: -420208396
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_84: 381597100
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_114: 291125981
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_127: -1294229687
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_44: -672342671
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_32: 1761974136
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_211: -275226247
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_133: -399023989
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_75: 283288451
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_51: 1109354888
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_198: -622222167
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_50: -1920934457
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_35: 2107467275
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_8: -540269988
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_139: -483822851
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_60: 1033189737
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_150: -1641550630
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_265: 391566565
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_71: 705240385
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_182: -328796475
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_125: 1284553309
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_113: 118008831
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_189: -1141658910
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_85: 1535916559
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_94: -645260320
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_158: -1588022173
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_28: -993487274
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_249: 1297030026
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_59: 548673545
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_112: -1902932954
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_9: -1954685432
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_67: -1814514591
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_199: -981077917
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_209: 1570554326
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_34: 1858228168
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_103: 1544464230
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_100: -1709189785
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_77: 1832772917
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_102: -990360969
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_80: -1903620206
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_129: 1860041810
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_69: 128638465
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_89: -419464991
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_70: -2011272006
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_185: -973899488
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_202: -297455123
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_254: -1456457139
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_25: -144795
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_104: -672617661
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_40: -496478017
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_24: 991076868
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_172: -1621520396
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_10: 2115921962
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_55: 772491610
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_142: 2082689259
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_109: 2058330220
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_156: 1773249674
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_178: -2023266663
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_13: 302119183
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_226: -109960806
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_14: 1720525594
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_191: 1529336986
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_116: -795150458
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_171: 1374382588
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_241: -2025959255
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_242: -1299431146
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_157: 673474184
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_243: 1247639441
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_66: 610570667
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_95: 178774757
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_42: -130386648
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_138: -1102732658
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_220: 281619629
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_119: -1593195940
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_31: 1334825812
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_222: 629020176
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_236: 497036597
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_155: 1207883892
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_250: -1776098682
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_269: 1442220708
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_122: -936598579
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_213: -878524671
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_212: -1307587021
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_136: 1285305707
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_267: -1154832351
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_110: -1224199861
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_58: 1003869779
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_151: -1393629077
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_17: 1832408184
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_39: 1329293250
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_52: -1428859378
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_64: -183796163
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_99: -1428983978
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_91: -1808597878
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_153: 245664178
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_23: 101228190
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_105: -2036126327
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_217: 22805240
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_247: 865268457
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_26: -658842635
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_205: -101270806
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_132: -370855842
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_38: 1625876251
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_208: 1854101365
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_140: 1103653284
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_204: 1730854993
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_221: 1639611389
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_93: -706306460
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_2: -1786562768
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_141: -1762896288
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_196: -40032523
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_160: 296375289
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_79: -1088635626
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_233: 160335265
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_21: -143825317
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_147: -1507829428
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_146: -1759035060
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_72: 261863957
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_87: 13547691
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_115: -1703222867
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_145: 1582944453
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_15: 278316909
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_27: 336584129
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_166: 304614301
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_29: 1747791489
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_174: 410614252
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_90: 1240883484
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_121: -1517343499
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_92: -450823080
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_131: 704725091
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_263: 217946253
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_184: -1752736790
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_117: -1589896285
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_173: 1750061609
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_239: 1087537225
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_245: -313224508
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_230: 1317709584
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_251: -1803798140
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_36: 1594751430
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_214: -513266183
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_57: 458363791
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_53: -260693746
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_30: -293119964
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_161: -1875259872
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_183: 503047078
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_18: -891578276
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_164: -136288861
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_37: 308433550
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_33: 948192667
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_49: -294787741
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_181: -1378022795
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_188: -1821394403
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_179: -1144600972
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_253: -1340576836
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_86: 923799142
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_5: 783904023
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_74: -1357545428
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_273: -1329244964
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_88: -593079910
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_218: -1928225656
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_62: 1823318183
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_96: -1806541765
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_225: -1706489167
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_252: 1560771736
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_1: -165025804
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_238: -165420627
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_41: 2123358504
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_162: 928310344
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_46: 2116476300
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_47: -1241625402
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_219: 2070958961
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_224: -507215188
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_124: 1674272904
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_244: -1064461862
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_120: 276550957
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_143: -1002727657
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_4: -1293468123
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_165: -430318417
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_207: -603663757
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_268: 1639304836
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_190: -495966949
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_264: -933693538
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_237: 1374564140
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_149: 1659040723
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_123: 2124367268
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_200: 1818545755
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_101: -1859746339
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_210: -1608758052
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_215: -1744210647
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_275: 569097245
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_257: 1569252505
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_20: -526599734
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_231: 802129538
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_144: -943282514
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_187: 851508483
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_169: -1996262469
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_246: 1908668543
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_259: -1780797315
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_45: -124556950
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_108: -1216503264
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_261: -1530321055
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_134: -928306071
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_274: -322536962
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_235: 85275477
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_271: -587926929
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_232: -1173998141
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_12: 516839586
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_228: -1672455872
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_258: 1163088989
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_106: 1287405529
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_216: -82289347
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_83: -1594469541
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_0: 205086321
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_76: -1371196891
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_223: -115490680
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_193: -1740938351
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

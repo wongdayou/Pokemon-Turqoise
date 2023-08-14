@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -5933,13 +5933,13 @@ TextureImporter:
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_197: -1055859811
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_78: -1988664556
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_262: 1771712154
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_154: 1589543033
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_176: 2141856737
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_154: 1589543033
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_56: -613001258
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_135: -881246368
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_137: 405353704
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_167: -121769772
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_194: -1956051975
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_167: -121769772
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_19: 2098651490
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_43: -1247016355
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_98: -1005857083
@@ -5982,12 +5982,12 @@ TextureImporter:
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_51: 1109354888
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_198: -622222167
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_50: -1920934457
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_35: 2107467275
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_8: -540269988
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_139: -483822851
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_60: 1033189737
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_35: 2107467275
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_150: -1641550630
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_265: 391566565
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_8: -540269988
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_60: 1033189737
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_71: 705240385
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_182: -328796475
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_125: 1284553309
@@ -6045,8 +6045,8 @@ TextureImporter:
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_220: 281619629
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_119: -1593195940
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_31: 1334825812
-      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_222: 629020176
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_236: 497036597
+      Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_222: 629020176
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_155: 1207883892
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_250: -1776098682
       Game Boy Advance - Pokemon Emerald - Pokemon 3rd Generation Normal_269: 1442220708
